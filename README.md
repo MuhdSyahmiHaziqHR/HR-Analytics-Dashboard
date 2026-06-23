@@ -10,9 +10,9 @@ This project analyses employee data and visualises important HR metrics.
 ## Dashboard Preview
 
 ### Overview
-![Dashboard Overview](./Screenshots/dashboard-overview.png)
+![Dashboard Overview](./Screenshots/Dashboard-overview.png)
 ### Filter Example
-![Dashboard Filter](./Screenshots/dashboard-filter.png)
+![Dashboard Filter](./Screenshots/Dashboard-filter.png)
 
 ## Dashboard Features
 - Total Employees
